@@ -1,6 +1,3 @@
-Sure, here's a README section for your simple text editor project:
-
----
 
 # Simple Text Editor
 
